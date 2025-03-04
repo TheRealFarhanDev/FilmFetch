@@ -1,12 +1,12 @@
 
 ---
 
-# 🎬 **FilmFetch** - [Preview](https://your-vercel-url.vercel.app/) 
+# 🎬 **FilmFetch** - [Preview](https://film-fetch.vercel.app/) 
 *A fast and efficient movie discovery platform powered by the TMDB API.*  
 
 ![FilmFetch Banner](/screenshot.png)  
 
-🔗 **Live Preview:** [FilmFetch](https://your-vercel-url.vercel.app/)  
+🔗 **Live Preview:** [FilmFetch](https://film-fetch.vercel.app/)  
 
 ---
 
