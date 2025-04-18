@@ -95,6 +95,6 @@ This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.
 ### **👨‍💻 Author**  
 👤 **Farhan Dev**  
 📌 GitHub: [TheRealFarhanDev](https://github.com/TheRealFarhanDev)  
-📌 LinkedIn: [Your LinkedIn Profile](#)  
+📌 LinkedIn: [Mohammed Farhan](https://www.linkedin.com/in/mohammed-farhan-0b2ab4341/)  
 
 ---
